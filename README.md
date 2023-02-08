@@ -13,7 +13,6 @@ Durante grande parte da minha vida acabei me deparando com desafios e soluções
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mateusdrag1)](https://github.com/mateusdrag1)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthieu-christian-emerenciano-de-oliveira-224101194/)](https://www.linkedin.com/in/matthieu-christian-emerenciano-de-oliveira-224101194/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584996518752&text=Olá%20vim%20pelo%20GitHub!)](https://api.whatsapp.com/send?phone=5584996518752&text=Olá%20vim%20pelo%20GitHub!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matthieuceo@gmail.com)](mailto:matthieuceo@gmail.com)
 
 
